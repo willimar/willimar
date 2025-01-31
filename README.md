@@ -1,5 +1,3 @@
-Here is your improved and polished text in English:  
-
 ---
 
 ### 👋 Hi, I’m @willimar  
