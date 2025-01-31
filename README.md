@@ -1,13 +1,19 @@
-- 👋 Hi, I’m @willimar
-- 👀 I'm tech lead in .Net C# about three years and I'm developer by more twenty years.
-- 🌱 I’m currently learning front-end developer with Angular and use good software architecture practices.
-- 💞️ I’m looking to collaborate on ...
-- 📫 To read more about me, visit my LinkedIn perfil [Willimar's LinkedIn](https://www.linkedin.com/in/willimar/).
+Here is your improved and polished text in English:  
 
-I am a Senior Software Engineer with extensive experience in software development, system architecture, and technical leadership. My professional journey includes working with technologies such as C#, .NET Core, Delphi, Angular, Docker, and databases like SQL Server, Oracle, and MongoDB.
+---
 
-Throughout my career, I have had the opportunity to work in companies across various industries, where I contributed to the creation of scalable solutions, implementation of microservices, and process improvement through agile methodologies such as Scrum and Kanban. Additionally, I have experience in technical mentorship, ensuring good development practices and code quality.
+### 👋 Hi, I’m @willimar  
+- 👀 I have been a Tech Lead in .NET C# for three years and a developer for over twenty years.  
+- 🌱 Currently, I’m expanding my expertise in front-end development with Angular while applying best practices in software architecture.  
+- 💞️ I’m looking to collaborate on innovative and challenging projects.  
+- 📫 Learn more about me on my LinkedIn profile: [Willimar's LinkedIn](https://www.linkedin.com/in/willimar/).  
 
-I believe that my expertise can directly contribute to tackling challenges, as I am always seeking efficient, innovative solutions that align with business needs. I am excited about the possibility of adding value to the team and taking on this challenge with dedication and commitment.
+I am a **Senior Software Engineer** with extensive experience in software development, system architecture, and technical leadership. My professional journey has led me to work with cutting-edge technologies such as **C#, .NET Core, Delphi, Angular, Docker**, and databases including **SQL Server, Oracle, and MongoDB**.  
 
-+55 32 9 9945-8480
+Throughout my career, I have contributed to **scalable solution development, microservices implementation, and process optimization** through agile methodologies like **Scrum and Kanban**. Additionally, I have solid experience in **technical mentorship, code review, and best development practices**, ensuring high-quality software delivery.  
+
+I am passionate about solving complex challenges with **efficient, innovative, and business-aligned solutions**. I am always eager to collaborate and add value to dynamic and ambitious teams.  
+
+📞 Feel free to reach out to me: **+55 32 9 9945-8480**  
+
+---
